@@ -1,7 +1,8 @@
 name: "Andrey Morales"
 description: "Lightweight theme"
+google: "153555211-2"
 
-url: '' 
+url: 'https://anmorales-hub.github.io'
 baseurl: ''
 
 markdown: kramdown
